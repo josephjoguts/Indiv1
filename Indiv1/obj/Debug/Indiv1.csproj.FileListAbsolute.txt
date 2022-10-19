@@ -1,0 +1,10 @@
+C:\Users\User\RiderProjects\Indiv1\Indiv1\bin\Debug\Indiv1.exe.config
+C:\Users\User\RiderProjects\Indiv1\Indiv1\bin\Debug\Indiv1.exe
+C:\Users\User\RiderProjects\Indiv1\Indiv1\bin\Debug\Indiv1.pdb
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.Properties.Resources.resources
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.csproj.GenerateResource.cache
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.exe
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.pdb
+C:\Users\User\RiderProjects\Indiv1\Indiv1\obj\Debug\Indiv1.Form1.resources
